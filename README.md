@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theclovercoder
-- 👀 I’m interested in creating applications and websites to make people's lives fun and easier. I love productivity, games, and female focusing applicaitons.
+- 👀 I’m interested in creating applications and websites to make people's lives more fun and easier. I love productivity, games, and female focusing applicaitons.
 - 🌱 I’m currently learning to code!
-- 📫 How to reach me through my website!
+- 📫 Reach me through my website!
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can play the ukelele!
 
